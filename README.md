@@ -1,2 +1,5 @@
-# expense-tracker
-Expense tracker | React Hooks &amp; Context API
+# Expense Tracker
+
+Keep track of income and expenses. Add and remove items and save to local storage
+
+* App was built with React Hooks and Context API
