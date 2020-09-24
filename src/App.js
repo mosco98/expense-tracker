@@ -1,5 +1,5 @@
 import React from 'react'
-import { Balance, Header, IncomeExpenses, TransactionList } from './components'
+import { AddTransaction, Balance, Header, IncomeExpenses, TransactionList } from './components'
 
 const App = () => {
   return (
@@ -9,6 +9,7 @@ const App = () => {
         <Balance />
         <IncomeExpenses />
         <TransactionList />
+        <AddTransaction />
       </div>
     </div>
   )
